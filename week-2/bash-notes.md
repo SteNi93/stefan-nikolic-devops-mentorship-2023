@@ -48,3 +48,11 @@
 -   **ls** - Used this command to list out all files/folders in pwd
 -   **nano data.txt** - To open data.txt
 -   **grep -h millionth data.txt** - To display online the line which has word "millionth"
+
+# Level 9
+
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **nano data.txt** - To open data.txt
+-   **sort data.txt** - To sort content of data.txt, it printed out sorted content without really sorting it
+-   **uniq -u data.txt > pass.txt** - To write out the unique line appearing in data.txt to pass.txt > no permission
+-   **sort data.txt | uniq -u** - To sort out and print the only unique line in data.txt
