@@ -10,4 +10,10 @@
 
 # Level 3
 
-- **cat ./-** - I used this to get the password from file named '-'
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **cat ./-** - I used this to get the password from file named '-'
+
+# Level 4
+
+-   **ls** - Used this command to list out all files/folders in pwd
+- **nano spaces\ in\ this\ filename** - I used this to open the file
