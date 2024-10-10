@@ -23,3 +23,9 @@
 -   **ls** - Used this command to list out all files/folders in pwd
 -   **find** - Used this to find all files within the inhere folder
 -   **cat ./...Hiding-From-You** - Used this to get the passwrod from the ...Hiding-From-You file
+
+# Level 5
+
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **find** - Used this to find all files within the inhere folder
+-   **cat** - Used cat on all files individually until i found the password 
