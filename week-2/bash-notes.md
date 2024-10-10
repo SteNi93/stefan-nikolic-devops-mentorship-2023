@@ -37,3 +37,8 @@
 -   **ls -R -l -lh** - Used this to list all folders, subfolders and files within in a list format with human-readable format
 -   **find . -type f - size 1033c** - Used this to find a file with a specific size
 -   **cat ./maybehere07/.file2** - Used to get the password from a file
+
+# Level 7
+
+- **cd** - To navigate
+- **find -type f -size 33c -user bandit7 -group bandit6** - To find a file with specified attributes
