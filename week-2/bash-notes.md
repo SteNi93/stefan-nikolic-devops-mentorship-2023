@@ -29,3 +29,11 @@
 -   **ls** - Used this command to list out all files/folders in pwd
 -   **find** - Used this to find all files within the inhere folder
 -   **cat** - Used cat on all files individually until i found the password 
+
+# Level 6
+
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **find** - Used this to find all files within the inhere folder
+-   **ls -R -l -lh** - Used this to list all folders, subfolders and files within in a list format with human-readable format
+-   **find . -type f - size 1033c** - Used this to find a file with a specific size
+-   **cat ./maybehere07/.file2** - Used to get the password from a file
