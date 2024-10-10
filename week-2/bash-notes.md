@@ -42,3 +42,9 @@
 
 - **cd** - To navigate
 - **find -type f -size 33c -user bandit7 -group bandit6** - To find a file with specified attributes
+
+# Level 8
+
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **nano data.txt** - To open data.txt
+-   **grep -h millionth data.txt** - To display online the line which has word "millionth"
