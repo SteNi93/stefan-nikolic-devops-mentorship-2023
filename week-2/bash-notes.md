@@ -56,3 +56,10 @@
 -   **sort data.txt** - To sort content of data.txt, it printed out sorted content without really sorting it
 -   **uniq -u data.txt > pass.txt** - To write out the unique line appearing in data.txt to pass.txt > no permission
 -   **sort data.txt | uniq -u** - To sort out and print the only unique line in data.txt
+
+# Level 10
+
+-   **ls** - Used this command to list out all files/folders in pwd
+-   **cat data.txt** - To print the contet of data.txt to the terminal
+-   **cat data.txt | grep -a ==** - I used this command to print out the specific lines of data.txt which have 2+ '==' signs as a pattern, this enabled me to see the       password immediately
+-   **grep -a ===** - I tested this command to see whether I'd be able to find the password without it and it produced the same result
