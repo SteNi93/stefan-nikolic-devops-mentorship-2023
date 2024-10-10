@@ -7,3 +7,7 @@
 
 -   **ls** - Used this command to list out all files/folders in pwd
 -   **nano readme** - I used this command to open the readme file and get the password
+
+# Level 3
+
+- **cat ./-** - I used this to get the password from file named '-'
